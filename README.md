@@ -1,4 +1,4 @@
-# IA02-projet
+# Prolog khan game and ai
 
 Ce projet avait pour but de se familiariser avec le langage prolog.
 Il consiste en plusieurs parties :
